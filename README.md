@@ -1,5 +1,5 @@
 <p align="center"><img src="https://i.imgur.com/jzWm27b.png" alt="github"/></p>
-<h2 align="center">Hi 👋, I'm Umut Dag</h2>  
+<h2 align="center">Hi 👋</h2>  
 <h3 align="center">A passionate about programming in embedded electronics from France</h3>
 <br/>
   
